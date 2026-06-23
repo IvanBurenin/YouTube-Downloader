@@ -1,5 +1,4 @@
 # YouTube Downloader (Windows, Python + PySide6 + yt-dlp)
-<img src="assets/present.png">
 Навайбкоженное приложение для скачивания видео/аудио с YouTube по ссылке, с выбором качества и формата (mp4/mp3)
 
 ## Скриншоты приложения
