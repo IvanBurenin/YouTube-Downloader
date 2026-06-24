@@ -76,7 +76,7 @@ pyinstaller build.spec
 Готовый файл появится в `dist\YouTubeDownloader.exe`.
 
 Перед сборкой:
-- поместите свою иконку в `resources/app.ico` (любой .ico 256x256);
+- поместите свою иконку в `resources/app.ico` (любой .ico 48x48);
 - если хотите, чтобы `ffmpeg.exe` был встроен в exe, добавьте его в
   `datas=[('ffmpeg.exe', '.')]` в `build.spec` — тогда отдельно класть
   ffmpeg рядом с программой не нужно.
